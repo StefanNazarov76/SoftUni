@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82681a3c-23ce-4811-b150-35dca0c958dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../01_first_steps_in_coding_lab/01_hello_softuni.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_first_steps_in_coding_lab/02_nums_1_to_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_first_steps_in_coding_lab/03_rectangle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_first_steps_in_coding_lab/04_inches_to_centimeters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_first_steps_in_coding_lab/05_greeting_by_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_first_steps_in_coding_lab/06_concatenate_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_first_steps_in_coding_lab/07_projects_creation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_first_steps_in_coding_lab/08_pet_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_first_steps_in_coding_lab/09_yard_greening.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_usd_to_bgn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_radians_to_degrees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_deposit_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_vacation_books_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_supplies_for_school.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_repainting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_food_delivery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_basketball_equipment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_fish_tank.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2jWTsxVWA3JgytW2KWK1ypMt3Bf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.02_radians_to_degrees.executor": "Run",
+    "Python.03_deposit_calculator.executor": "Run",
+    "Python.04_vacation_books_list.executor": "Run",
+    "Python.05_supplies_for_school.executor": "Run",
+    "Python.06_repainting.executor": "Run",
+    "Python.09_fish_tank.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17890.14" />
+        <option value="bundled-python-sdk-5b207ade9991-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82681a3c-23ce-4811-b150-35dca0c958dc" name="Changes" comment="" />
+      <created>1721502043609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721502043609</updated>
+      <workItem from="1721502044667" duration="2768000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/02_first_steps_in_coding_exercise$02_radians_to_degrees.coverage" NAME="02_radians_to_degrees Coverage Results" MODIFIED="1721502422605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/02_first_steps_in_coding_exercise$04_vacation_books_list.coverage" NAME="04_vacation_books_list Coverage Results" MODIFIED="1721502860984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/02_first_steps_in_coding_exercise$05_supplies_for_school.coverage" NAME="05_supplies_for_school Coverage Results" MODIFIED="1721503363242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/02_first_steps_in_coding_exercise$09_fish_tank.coverage" NAME="09_fish_tank Coverage Results" MODIFIED="1721504723734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/02_first_steps_in_coding_exercise$03_deposit_calculator.coverage" NAME="03_deposit_calculator Coverage Results" MODIFIED="1721502650636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/02_first_steps_in_coding_exercise$06_repainting.coverage" NAME="06_repainting Coverage Results" MODIFIED="1721503753844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

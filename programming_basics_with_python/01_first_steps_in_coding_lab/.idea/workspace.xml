@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f35462a-5d2a-4ae5-a05f-a3d6baa6a1ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/01_hello_softuni.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_nums_1_to_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_rectangle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_inches_to_centimeters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_greeting_by_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_concatenate_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_projects_creation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_pet_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_yard_greening.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2jWP561fJrJCZReClL9b4LaqZd3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.01_hello_softuni.executor": "Run",
+    "Python.02_nums_1_to_10.executor": "Run",
+    "Python.03_rectangle_area.executor": "Run",
+    "Python.04_inches_to_centimeters.executor": "Run",
+    "Python.05_greeting_by_name.executor": "Run",
+    "Python.06_concatenate_data.executor": "Run",
+    "Python.07_projects_creation.executor": "Run",
+    "Python.08_pet_shop.executor": "Run",
+    "Python.09_yard_greening.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17890.14" />
+        <option value="bundled-python-sdk-5b207ade9991-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f35462a-5d2a-4ae5-a05f-a3d6baa6a1ce" name="Changes" comment="" />
+      <created>1721499679966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721499679966</updated>
+      <workItem from="1721499683836" duration="2338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/01_first_steps_in_coding_lab$04_inches_to_centimeters.coverage" NAME="04_inches_to_centimeters Coverage Results" MODIFIED="1721500425754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01_first_steps_in_coding_lab$07_projects_creation.coverage" NAME="07_projects_creation Coverage Results" MODIFIED="1721500986586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01_first_steps_in_coding_lab$06_concatenate_data.coverage" NAME="06_concatenate_data Coverage Results" MODIFIED="1721500715512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01_first_steps_in_coding_lab$03_rectangle_area.coverage" NAME="03_rectangle_area Coverage Results" MODIFIED="1721500313677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01_first_steps_in_coding_lab$01_hello_softuni.coverage" NAME="01_hello_softuni Coverage Results" MODIFIED="1721500089630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01_first_steps_in_coding_lab$02_nums_1_to_10.coverage" NAME="02_nums_1_to_10 Coverage Results" MODIFIED="1721500153967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01_first_steps_in_coding_lab$05_greeting_by_name.coverage" NAME="05_greeting_by_name Coverage Results" MODIFIED="1721500558817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01_first_steps_in_coding_lab$09_yard_greening.coverage" NAME="09_yard_greening Coverage Results" MODIFIED="1721501779376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/01_first_steps_in_coding_lab$08_pet_shop.coverage" NAME="08_pet_shop Coverage Results" MODIFIED="1721501391892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
