@@ -1,4 +1,4 @@
-wealth_numbers = [int(x)for x in input().split(', ')]
+wealth_numbers = [int(number)for number in input().split(', ')]
 minimum_wealth = int(input())
 
 for i in range(len(wealth_numbers)):
