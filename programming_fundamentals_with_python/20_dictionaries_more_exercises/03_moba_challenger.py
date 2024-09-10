@@ -33,7 +33,7 @@ def show_result(dict_to_sort):
     for player, total_points in sorted(dict_to_sort.items(), key=lambda item: (-sum(item[1]['roles'].values()), item[0])):
         print(f"{player}: {sum(total_points['roles'].values())} skill")
         for role, points in sorted(total_points['roles'].items(), key=lambda item: (-item[1], item[0])):
-            print(f"- {role} <::> {points}")
+            print(f'- {role} <::> {points}')
 
 
 players = {}
