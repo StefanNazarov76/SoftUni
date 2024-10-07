@@ -2,14 +2,14 @@ rows, cols = [int(el) for el in input().split(', ')]
 
 matrix = []
 
-for row in range(rows):
+for _ in range(rows):
     data = [int(el) for el in input().split()]
     matrix.append(data)
 
-for col in range(cols):
-    sum_col = 0
+for col_index in range(cols):
+    col_sum = 0
 
-    for row in range(rows):
-        sum_col += matrix[row][col]
+    for row_index in range(rows):
+        col_sum += matrix[row_index][col_index]
 
-    print(sum_col)
+    print(col_sum)
