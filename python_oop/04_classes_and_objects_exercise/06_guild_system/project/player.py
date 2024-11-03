@@ -18,7 +18,3 @@ class Player:
                f'HP: {self.hp}\n'\
                f'MP: {self.mp}\n'\
                f'{skills}'
-
-
-
-

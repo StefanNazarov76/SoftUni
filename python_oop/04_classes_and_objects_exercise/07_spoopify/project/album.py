@@ -44,8 +44,3 @@ class Album:
 
         return f'Album {self.name}\n'\
                f'{songs_info}'
-
-
-
-
-
